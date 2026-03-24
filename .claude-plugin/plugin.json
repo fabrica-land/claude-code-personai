@@ -1,0 +1,20 @@
+{
+  "name": "personai",
+  "version": "0.1.0",
+  "description": "Persistent agent identity \u2014 memory vault, journal, association search, boot sequence, and session state. The foundation for agents that survive context compaction.",
+  "author": {
+    "name": "Tim Garthwaite",
+    "url": "https://github.com/mividtim"
+  },
+  "license": "MIT",
+  "keywords": [
+    "agent",
+    "identity",
+    "memory",
+    "journal",
+    "vault",
+    "boot",
+    "persistence"
+  ],
+  "repository": "https://github.com/mividtim/claude-code-personai"
+}
